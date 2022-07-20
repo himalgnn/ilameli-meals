@@ -1,2 +1,2 @@
-# ilameli-meals
+# Ilameli Meals
 Food Delivery Website
